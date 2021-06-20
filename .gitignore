@@ -2,3 +2,9 @@ node_modules
 gulpfile.js
 src
 design
+README-template.md
+README.md
+style-guide.md
+js
+package-lock.json
+package.json
